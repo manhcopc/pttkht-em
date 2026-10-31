@@ -1,0 +1,8 @@
+{
+  "name": "Remix Trình Cà Phê Pro",
+  "description": "Ứng dụng quản lý kho, nguyên vật liệu và báo cáo chuyên nghiệp, tối ưu giao diện cho cửa hàng cà phê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
